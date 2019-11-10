@@ -627,32 +627,6 @@ video {
   }
 }
 
-.btn {
-  font-weight: 600;
-  display: inline-block;
-  background-color: #3182ce;
-  color: #fff;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  padding-top: 0.75rem;
-  padding-bottom: 0.75rem;
-  letter-spacing: 0.05em;
-  border-radius: 0.25rem;
-}
-
-.btn:hover {
-  background-color: #434190;
-}
-
-.btn:focus {
-  outline: 0;
-  box-shadow: 0 0 0 3px rgba(66, 153, 225, 0.5);
-}
-
-.btn:active {
-  background-color: #5a67d8;
-}
-
 .sr-only {
   position: absolute;
   width: 1px;
